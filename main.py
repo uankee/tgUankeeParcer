@@ -4,7 +4,7 @@ from telethon import TelegramClient
 from google import genai
 
 # НАЛАШТУВАННЯ 
-API_ID = 36201763  #Telegram API ID
+API_ID =   #Telegram API ID
 API_HASH = '-------------'  #Telegram API Hash
 GEMINI_KEY = '--------------'  #Gemini API Key
 MODEL_NAME = '--------------'  # Модель: gemini-2.0-flash або gemini-3-flash-preview
